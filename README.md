@@ -1,1 +1,1 @@
-# masaigit training session learning about it
+JS101_Learning_Javascript
